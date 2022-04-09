@@ -1,5 +1,5 @@
 ### Hi there 👋
-![aelabid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aelabid&layout=default&theme=dark)
+![aelabid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AssElab&layout=default&theme=dark)
 <br>
 <a href="https://github.com/aelabid?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelabid&theme=dark"/>
