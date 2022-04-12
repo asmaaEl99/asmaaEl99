@@ -1,13 +1,12 @@
 ### Hi there 👋
-![aelabid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AssElab&layout=default&theme=dark)
-<br>
 <a href="https://github.com/aelabid?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelabid&theme=dark"/>
 </a>
 <a href="https://github.com/aelabid?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aelabid&line_height=40&show_icons=true&theme=dark">
 </a>
-
+<br>
+![aelabid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AssElab&layout=default&theme=dark)
 <!--
 **aelabid/aelabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
