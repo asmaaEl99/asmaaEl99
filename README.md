@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl5tvbv50010609l4kvmdys61/stats?cursusId=21&coalitionId=73" alt="aelabid's 42 stats" /></a>
+<br>
 <a href="https://github.com/aelabid?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelabid&theme=dark"/>
 </a>
