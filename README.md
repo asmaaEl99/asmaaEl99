@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelabid&theme=dark"/>
 </a>
 <a href="https://github.com/aelabid?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aelabid&line_height=40&show_icons=true&theme=dark">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aelabid&line_height=40&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 </a>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AssElab&layout=compact&theme=dark">
