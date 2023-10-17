@@ -5,9 +5,7 @@
    <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelabid&theme=dark&layout=compact&card_width=445px"/>
 </a>
 <br>
-<a width="80%" href="https://github.com/aelabid?tab=repositories">
- <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=aelabid&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-</a>
+
 <br>
 <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AssElab&layout=compact&theme=dark">
 <br>
