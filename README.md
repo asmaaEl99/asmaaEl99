@@ -5,7 +5,7 @@ Hey there! I'm Asmaa Elabid
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aelabid?1337Badge=off" alt="aelabid's 42 stats" /></a>
 <br>
 <a width="80%" href="https://github.com/aelabid?tab=repositories">
-   <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelabid&theme=dark&layout=compact&card_width=445px"/>
+<!--    <img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelabid&theme=dark&layout=compact&card_width=445px"/> -->
 </a>
 <br>
 
