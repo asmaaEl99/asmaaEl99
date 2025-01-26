@@ -13,7 +13,7 @@ Hey there! I'm Asmaa Elabid
 <br>
 <a width="80%" href="https://wakatime.com/@d8d97d89-eab6-44b6-a778-2a75a92a25fc"><img width=35% src="https://wakatime.com/badge/user/d8d97d89-eab6-44b6-a778-2a75a92a25fc.svg" alt="Total time coded since Feb 10 2021" /></a>
 <div>
-       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmaelabid" alt="asmaelabid" /></a> </p>
+       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmaelabid&theme=nord" alt="asmaelabid" /></a> </p>
 <!--
 **aelabid/aelabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
